@@ -31,7 +31,7 @@ The case demonstrates **hands-on-keyboard attacker behavior**, extensive Living-
 **Impact Level:High**
 **Threat Type**: Interactive intrusion / Data exfiltration
 **Detection Source**: Microsoft Defender for Endpoint
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/c0ab37ae-e2e2-411a-b6d5-9a20c4fa4c64" /> <img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/05f2846d-0f16-4cc0-9b8c-5f34b61ba0a2" /> <img width="380" height="220" alt="image" src="https://github.com/user-attachments/assets/8f80553a-2a06-46f7-9b41-f3db8c4e2b49" />
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/c0ab37ae-e2e2-411a-b6d5-9a20c4fa4c64" /> <img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/05f2846d-0f16-4cc0-9b8c-5f34b61ba0a2" /> <img width="380" height="220" alt="image" src="https://github.com/andrepoyser980/Cargo-hold-threat-hunt/blob/main/images/attack-flow3.jpg" />
 
 Attack Sequence:
 
