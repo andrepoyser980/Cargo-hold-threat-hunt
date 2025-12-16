@@ -88,7 +88,7 @@ Impact|	T1070.004	|Log Deletion
 
 **Investigation Timeline (UTC)**
 
-<img width="240" height="180" alt="image" src="https://github.com/user-attachments/assets/28fd4d58-7a28-44a1-bb84-c6a9107f1b89" />   <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/9a7ac69e-b49a-4c34-a9fc-1539c6ba7530" />  <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/289b0aab-13f6-4e89-b629-dbaecc40f5ca" />
+<img width="240" height="180" alt="image" src="https://github.com/andrepoyser980/Cargo-hold-threat-hunt/blob/main/images/7-Phases-of-Incident-Response.jpg" />   <img width="240" height="240" alt="image" src="https://github.com/andrepoyser980/Cargo-hold-threat-hunt/blob/main/images/Evolution-of-the-Security-figure1.png" />  <img width="220" height="220" alt="image" src="https://github.com/andrepoyser980/Cargo-hold-threat-hunt/blob/main/images/Rick-and-Morty-Timeline-1.png" />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 |**Time** |	**Event** |
 |---------|-----------|
